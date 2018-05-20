@@ -10,5 +10,18 @@
     "ejs": "*",
     "express": "3.3.5",
     "jquery": "3.3.1"
-  }
+  },
+  "description": "Repository for Classrates Web site",
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wintellect/Classrates.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Wintellect/Classrates/issues"
+  },
+  "homepage": "https://github.com/Wintellect/Classrates#readme",
+  "devDependencies": {}
 }
